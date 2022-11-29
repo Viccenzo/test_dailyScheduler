@@ -1,0 +1,23 @@
+{
+  "name": "test_dailyscheduler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viccenzo/test_dailyScheduler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Viccenzo/test_dailyScheduler/issues"
+  },
+  "homepage": "https://github.com/Viccenzo/test_dailyScheduler#readme",
+  "dependencies": {
+    "mqtt": "^4.3.7",
+    "node-schedule": "^2.1.0"
+  }
+}
